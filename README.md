@@ -20,7 +20,7 @@
     </section>
 
  <section>
-       <h2><a href="file:///C:/Users/Usuario/Downloads/me%20aburri%20(1).html ">HORARIO DE CLASES</a></h2>
+       <h2><a href="me aburri (1).html ">HORARIO DE CLASES</a></h2>
     </section>
 
 
